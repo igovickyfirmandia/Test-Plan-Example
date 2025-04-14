@@ -11,3 +11,8 @@ Why test plan is important?
   * Ensure the test coverage
   * Helps with resources planning
 
+## The elements of Test Plan
+| Section                 | Description                                   |
+|-------------------------|-----------------------------------------------|
+| Introduction            | Explain what & whay are you testing           |
+| Objectives              | What is the objective of the test plan        |
