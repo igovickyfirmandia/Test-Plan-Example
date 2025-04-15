@@ -14,14 +14,15 @@ Why test plan is important?
 | Section                  | Description                                                                      |
 |--------------------------|----------------------------------------------------------------------------------|
 | Introduction             | Explain what & whay are you testing                                              |
+| Objectives               | Define what it the objectives of the testing process                             |
 | Scope                    | What are included in the scope and what are not                                  |
 | Test Strategy            | Define what types of testing will be conducted, is it manual/automated?          |
 | Test Environment         | Define what are we testing (Devices, tools, OS, etc)                             |
 | Test Schedule/Timeline   | When the testing will be conducted?                                              |
 | Test Deliverables        | What documents or results will we produce?                                       |
-| Resources                | List of the team involved in the software development                            |
+| Resources & Roles        | List of the team involved in the software development                            |
 | Entry & Exit Criteria    | When the testing is starting & when the testing is stopped                       |
 | Risk & Mitigations       | Detail about what might be causing future problem, how the team should handle it |
 
 
-Here is the example that I've created [url] -> will be updated later
+Here this  the template example I've created [Test Plan Template](https://docs.google.com/document/d/1DRG2nvJBt5uiC3N-BpJSu6XpVXWMHwqh_BTimV31Z_M/edit?usp=sharing) & this is [Test Plan Example](https://docs.google.com/document/d/1hgTEKGBZPSIdC_47VQMZLwVi0-tW-vBpkFKvy41UOt0/edit?usp=sharing) using the template
